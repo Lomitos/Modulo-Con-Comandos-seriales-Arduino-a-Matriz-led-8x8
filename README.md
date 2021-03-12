@@ -23,3 +23,4 @@ Mandando comandos de control como los siguientes:
 
   i! = Funcion intensidad, esta funcion nos permite modificar la intensidad de brillo de las matrices led (mayor luz o menor luz en los led)
 
+Video del Funcionamiento del programa: https://drive.google.com/file/d/1JukFN9vMatM3BrKtghStC1WMigtFCK3J/view?usp=sharing
