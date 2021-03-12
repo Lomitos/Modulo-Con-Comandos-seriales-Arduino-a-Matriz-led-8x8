@@ -4,6 +4,7 @@ Actividad 1.6_Modulo con comandos. Arquitectura de computadoras
 Esta actividad consiste en mandar señales seriales mediante la terminal COM de arduino a traves de UART a una velocidad de 9600.
 
 Mandando comandos de control como los siguientes:
+
   c! = siendo un comando de control para inicializar cualquier otra comando que nesecitemos mas adelante
   w! = Funcion write para mandar datos seriales a la memoria de arduino
   s! = Funcion show para mostrar los datos almacenados en la memoria
